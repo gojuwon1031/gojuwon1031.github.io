@@ -18,7 +18,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 */
 @import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); /* Custom font import link (see fonts.google.com) */
-@import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
 /*##########################################################################
 
                  CHANGE VALUES BELOW TO CUSTOMIZE YOU THEME
@@ -30,7 +30,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --themeColor2: #5B86E5; /* Theme's color 2 */
 
   /* CUSTOM FONT */
-  --customFont: 'NanumSquareRound', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
+  --customFont: 'Nanum+Myeongjo&display', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
 
   /* HOME BUTTON */
   --homeImage: url('https://i.imgur.com/oOKwCVJ.png');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
